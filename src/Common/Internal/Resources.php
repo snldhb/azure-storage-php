@@ -53,10 +53,10 @@ class Resources
     const SHARED_ACCESS_SIGNATURE_NAME = 'SharedAccessSignature';
     const DEV_STORE_NAME = 'devstoreaccount1';
     const DEV_STORE_KEY = 'Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==';
-    const BLOB_BASE_DNS_NAME = 'blob.core.windows.net';
-    const QUEUE_BASE_DNS_NAME = 'queue.core.windows.net';
-    const TABLE_BASE_DNS_NAME = 'table.core.windows.net';
-    const FILE_BASE_DNS_NAME = 'file.core.windows.net';
+    const BLOB_BASE_DNS_NAME = 'blob.core.chinacloudapi.cn';
+    const QUEUE_BASE_DNS_NAME = 'queue.core.chinacloudapi.cn';
+    const TABLE_BASE_DNS_NAME = 'table.core.chinacloudapi.cn';
+    const FILE_BASE_DNS_NAME = 'file.core.chinacloudapi.cn';
     const DEV_STORE_CONNECTION_STRING = 'BlobEndpoint=127.0.0.1:10000;QueueEndpoint=127.0.0.1:10001;TableEndpoint=127.0.0.1:10002;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==';
     const SUBSCRIPTION_ID_NAME = 'SubscriptionID';
     const CERTIFICATE_PATH_NAME = 'CertificatePath';
